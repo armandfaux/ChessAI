@@ -1,0 +1,2 @@
+# ChessAI
+Better than Stockfish
